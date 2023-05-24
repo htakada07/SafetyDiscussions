@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SafetyDiscussions.Repositories/1.0.0": {
+        "dependencies": {
+          "SafetyDiscussions.Models": "1.0.0"
+        },
+        "runtime": {
+          "SafetyDiscussions.Repositories.dll": {}
+        }
+      },
+      "SafetyDiscussions.Models/1.0.0": {
+        "runtime": {
+          "SafetyDiscussions.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SafetyDiscussions.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SafetyDiscussions.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

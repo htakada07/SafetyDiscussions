@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SafetyDiscussions.Models/1.0.0": {
+        "runtime": {
+          "SafetyDiscussions.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SafetyDiscussions.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

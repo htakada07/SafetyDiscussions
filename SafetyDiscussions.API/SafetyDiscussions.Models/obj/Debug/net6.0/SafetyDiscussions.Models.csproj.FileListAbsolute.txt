@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\bin\Debug\net6.0\SafetyDiscussions.Models.deps.json
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\bin\Debug\net6.0\SafetyDiscussions.Models.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\bin\Debug\net6.0\SafetyDiscussions.Models.pdb
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\SafetyDiscussions.Models.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\SafetyDiscussions.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\SafetyDiscussions.Models.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\SafetyDiscussions.Models.AssemblyInfo.cs
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\SafetyDiscussions.Models.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\SafetyDiscussions.Models.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\refint\SafetyDiscussions.Models.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\SafetyDiscussions.Models.pdb
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Models\obj\Debug\net6.0\ref\SafetyDiscussions.Models.dll

@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\bin\Debug\net6.0\SafetyDiscussions.Repositories.deps.json
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\bin\Debug\net6.0\SafetyDiscussions.Repositories.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\bin\Debug\net6.0\SafetyDiscussions.Repositories.pdb
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\bin\Debug\net6.0\SafetyDiscussions.Models.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\bin\Debug\net6.0\SafetyDiscussions.Models.pdb
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\SafetyDiscussions.Repositories.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\SafetyDiscussions.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\SafetyDiscussions.Repositories.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\SafetyDiscussions.Repositories.AssemblyInfo.cs
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\SafetyDiscussions.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\SafetyDiscussions.Repositories.csproj.CopyComplete
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\SafetyDiscussions.Repositories.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\refint\SafetyDiscussions.Repositories.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\SafetyDiscussions.Repositories.pdb
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Repositories\obj\Debug\net6.0\ref\SafetyDiscussions.Repositories.dll

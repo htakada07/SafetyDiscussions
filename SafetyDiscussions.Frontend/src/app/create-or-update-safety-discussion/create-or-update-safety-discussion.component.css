@@ -1,0 +1,27 @@
+.button-container {
+    display: flex;
+    justify-content: right;
+}
+
+.button-field {
+    margin: 1% 1% 1% 1%;
+}
+
+.form-container {
+    margin: 1% 1% 1% 1%;
+}
+
+.form-field{
+    width: 100%;
+}
+
+mat-form-field {
+    width: 100% !important;
+}
+
+.alert div {
+    background-color: #fed3d3;
+    color: #820000;
+    padding: 1rem;
+    margin-bottom: 1rem;
+}

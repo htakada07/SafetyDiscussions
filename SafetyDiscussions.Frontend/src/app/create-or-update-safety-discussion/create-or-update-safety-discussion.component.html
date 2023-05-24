@@ -1,0 +1,84 @@
+<form #myForm="ngForm">
+    <div class="form-container">
+        <div class="form-field">
+            <mat-form-field>
+                <mat-label>Observer</mat-label>
+                <input matInput required id="observer" name="observer" [(ngModel)]="safetyDiscussion.observer" #observer="ngModel">
+                <div *ngIf="observer.invalid && (observer.dirty || observer.touched)" class="alert">
+                    <mat-error *ngIf="observer.errors?.['required']">
+                      Observer is <strong>required</strong>
+                    </mat-error>
+                </div>
+               
+            </mat-form-field>
+        </div>
+            
+        <div class="form-field">
+            <mat-form-field>
+                <mat-label>Date of Discussion</mat-label>
+                <input required matInput [matDatepicker]="picker" [(ngModel)]="safetyDiscussion.dateOfDiscussion" id="dateOfDiscussion" name="dateOfDiscussion" #dateOfDiscussion="ngModel" [max]="maxDate">
+                <mat-hint>MM/DD/YYYY</mat-hint>
+                <mat-datepicker-toggle matIconSuffix [for]="picker"></mat-datepicker-toggle>
+                <mat-datepicker #picker></mat-datepicker>
+            </mat-form-field>
+        </div>
+            
+        <div class="form-field">
+            <mat-form-field>
+                <mat-label>Location of Discussion</mat-label>
+                <input required matInput [(ngModel)]="safetyDiscussion.locationOfDiscussion" id="locationOfDiscussion" name="locationOfDiscussion" #locationOfDiscussion="ngModel">
+                <div *ngIf="locationOfDiscussion.invalid && (locationOfDiscussion.dirty || locationOfDiscussion.touched)" class="alert">
+                    <mat-error *ngIf="locationOfDiscussion.errors?.['required']">
+                        Location of Discussion is <strong>required</strong>
+                    </mat-error>
+                </div>
+            </mat-form-field>
+        </div>
+
+        <div class="form-field">
+            <mat-form-field>
+                <mat-label>Colleague</mat-label>
+                <input required matInput [(ngModel)]="safetyDiscussion.colleague" id="colleague" name="colleague" #colleague="ngModel">
+                <div *ngIf="colleague.invalid && (colleague.dirty || colleague.touched)" class="alert">
+                    <mat-error *ngIf="colleague.errors?.['required']">
+                        Colleague is <strong>required</strong>
+                    </mat-error>
+                </div>
+            </mat-form-field>
+        </div>
+           
+        <div class="form-field">
+            <mat-form-field>
+                <mat-label>Subject of Discussion</mat-label>
+                <input matInput [(ngModel)]="safetyDiscussion.subjectOfDiscussion" required id="subjectOfDiscussion" name="subjectOfDiscussion" #subjectOfDiscussion="ngModel">
+                <div *ngIf="subjectOfDiscussion.invalid && (subjectOfDiscussion.dirty || subjectOfDiscussion.touched)" class="alert">
+                    <mat-error *ngIf="subjectOfDiscussion.errors?.['required']">
+                        Subject of Discussion is <strong>required</strong>
+                    </mat-error>
+                </div>
+            </mat-form-field>
+        </div>
+
+        <div class="form-field">
+            <mat-form-field>
+            <mat-label>Outcomes</mat-label>
+            <textarea matInput [(ngModel)]="safetyDiscussion.outcomes" required id="outcomes" name="outcomes" #outcomes="ngModel"></textarea>
+            <div *ngIf="outcomes.invalid && (outcomes.dirty || outcomes.touched)" class="alert">
+                <mat-error *ngIf="outcomes.errors?.['required']">
+                    Outcomes is <strong>required</strong>
+                </mat-error>
+            </div>
+            </mat-form-field>
+        </div>
+
+        <div class="button-container">
+            <div class="button-field">
+                <button mat-raised-button color="warn" (click)="cancel()">Cancel</button>
+            </div>
+            <div class="button-field">
+                <button mat-raised-button color="primary" (click)="submit()" 
+                [disabled]="!myForm.valid">Save</button>
+            </div>
+        </div>
+    </div>
+</form>

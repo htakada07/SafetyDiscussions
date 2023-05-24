@@ -1,0 +1,44 @@
+table {
+    width: 100%;
+}
+
+.mat-mdc-form-field {
+    font-size: 14px;
+    width: 100%;
+}
+
+td, th {
+    width: 25%;
+}
+
+.button-container {
+    display: flex;
+    gap: 8px; 
+    top: 50%;
+}
+
+.mat-table-container {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mat-header-cell,
+.mat-cell {
+  flex: 1 !important;
+}
+
+.header-container {
+    display: flex;
+    width: 100%;
+}
+
+.filter-container 
+{
+    display: flex;
+    width: 90%;
+    margin: 1% 1% 1% 1%;
+}
+
+.button-container {
+    padding: 1% 1% 1% 1%;
+}

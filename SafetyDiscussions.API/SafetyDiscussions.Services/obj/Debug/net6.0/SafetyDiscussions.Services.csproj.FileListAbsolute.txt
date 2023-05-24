@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\bin\Debug\net6.0\SafetyDiscussions.Services.deps.json
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\bin\Debug\net6.0\SafetyDiscussions.Services.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\bin\Debug\net6.0\SafetyDiscussions.Services.pdb
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\bin\Debug\net6.0\SafetyDiscussions.Models.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\bin\Debug\net6.0\SafetyDiscussions.Models.pdb
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\SafetyDiscussions.Services.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\SafetyDiscussions.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\SafetyDiscussions.Services.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\SafetyDiscussions.Services.AssemblyInfo.cs
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\SafetyDiscussions.Services.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\SafetyDiscussions.Services.csproj.CopyComplete
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\SafetyDiscussions.Services.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\refint\SafetyDiscussions.Services.dll
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\SafetyDiscussions.Services.pdb
+C:\Users\admin\Documents\ABCO\SafetyDiscussions.API\SafetyDiscussions.Services\obj\Debug\net6.0\ref\SafetyDiscussions.Services.dll
